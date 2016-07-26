@@ -1,3 +1,3 @@
 # test
 
-[Click Here](Link to me.md)
+[Click Here](link to me.md)
